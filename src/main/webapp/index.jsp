@@ -3,8 +3,8 @@
 
 </head>
 <body>
-    <h1 style="color: black; font-size: 60px;" align="center">HELLOOOOOO DUDE </h1>
-	<h2 style="color: red; font-size: 50px;" align="center">Hello  OUR APP USING JENKINS</h2>
+    <h1 style="color: black; font-size: 60px;" align="center">HELLOOOOOO nexus </h1>
+	<h2 style="color: red; font-size: 50px;" align="center">Hello  OUR APP USING JENKINS AND NEXUS</h2>
 		<h3 style="color: red; font-size: 30px;" align="center">Version 2 deployment</h3>
 <h2 style="color: green; font-size: 60px;" align="center">Nexus has been successfully integrated with jenkins u+1F600 </h2>
 </body>
